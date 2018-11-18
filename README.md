@@ -1,2 +1,2 @@
 # Circle-Animation
-An animation with circles using pure javascript
+An animation with particles using pure javascript
